@@ -68,6 +68,8 @@ CHPD ------------------------ 3.3V
 RST -------------------------- Not connected (open)
 VCC -------------------------- 3.3V
 
+其硬件针脚的具体说明规格请[点击这里查看ESP8266_Hardware](https://www.electrodragon.com/w/Category:ESP8266_Hardware#Pin_Definition.2C_Dimension)
+
 **关于ESP8266引脚相连的一些说明**
 > * GP0引脚与GND相连，在代码烧写的时候是必须处于连接状态的，烧写完成之后，代码运行时，可以撤掉这根线
 > * RST引脚可以不连任何线，但在烧写开始前，请记得备上一根母的杜邦线将RST引脚与Arduino Nano扩展板上的GND通电再撤掉，目的是为了重置低电平（重置过程中可以看到ESP8266板上自带的蓝灯闪烁一下）
@@ -179,7 +181,9 @@ void loop() {
 激动了，终于来到烧写这一步了，决定你的付出能否被esp8266板子接受的关键一步，Arduino IDE中选好对应的串口，编译无误后，点击上传？额，别着急，先把‘文件-首选项-显示详细输出’的‘编译’‘上传’复选框选中，然后再烧写，如果一次能烧写成功，恭喜你了，如果失败，请对号入座看下面的一些问题及解决方案是不是能够帮到你？
 1. espcomm_send_command: can't receive slip payload data
 解决：这应该是没有连GP0到GND时的错误
-2. GP0到GND连接后还出现下面错误：
+2. A fatal error occurred: Invalid head of packet (0x00)
+检查Arduino nano板上刷的代码是不是影响了ESP8266相连针脚，可以考虑重刷Arduino板的代码后（可以烧个最简单的blink上去）再来试试烧写ESP8266板
+3. GP0到GND连接后还出现下面错误：
 warning: espcomm_sync failed
 error: espcomm_open failed
 error: espcomm_upload_mem failed
@@ -188,7 +192,7 @@ error: espcomm_upload_mem failed
 > * 尝试esptool.py工具,[点击参考文章这里](https://arduino.stackexchange.com/questions/20219/upload-with-esptool-fails-with-espcomm-send-command-cant-receive-slip-payload)查看如何使用，不过参考文章说的是在linux机器上跑，在windows机器上用，需要安装python，执行setup.py。esptool.py的使用，有两点要注意下：
 一是要找到esptool.py.exe这个命令被安装的位置，我的机器是在D:\Program Files\python\Scripts目录之下
 二是platform.txt这个文件的位置因系统而异，我的win10系统的位置就是C:\Users\RoyLi\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.4.2这个目录下面，这两点信息能确认了，那个esptool.py的工具也就能顺利运行了
-> * 如果接线也无问题，且esptool.py也能运行，但仍然没有排除以上问题，请尝试我前文提到的将RST引脚重置低电平，然后将Arduino板的USB电源线拔出再重新接入，之后重新尝试上传代码
+> * 如果接线也无问题，且esptool.py也能运行，但仍然没有排除以上问题，请尝试我前文提到的将RST引脚重置低电平(连GND)，然后将Arduino板的USB电源线拔出再重新接入，之后重新尝试上传代码
 
 经过这一系列折腾，如果看到下面的这一串提示，那么恭喜你，你的代码已经烧写成功了。
 ```C++
