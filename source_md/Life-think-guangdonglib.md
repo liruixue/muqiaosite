@@ -17,8 +17,8 @@ tags:
 #  博物馆前
 
   &nbsp;&nbsp;&nbsp;&nbsp;广州有俩博物馆，一个是广州市博物馆在越秀区，另外一个是广东省博物馆在天河区，幸好经过天河时又百度确认了下，没走冤枉路，从沿江高速出发不到俩小时路程就来到了这里。竟然就在广州的小蛮腰旁边，这么近，侧面图秀一个：
-  ![博物馆旁的小蛮腰](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gz-museum-tour/museum-xiaomanyao.jpg.jpg) 
-  
+  ![博物馆旁的小蛮腰](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gz-museum-tour/museum-xiaomanyao.jpg) 
+<!-- more -->   
   
 &nbsp;&nbsp;&nbsp;&nbsp;早上出发有些晚，才到地儿已经接近下午一点了，博物馆下午4点禁止入场。赶紧找吃的，一搜才发现旁边餐馆还不少，选了个大众点评评分不错的‘喜剧’，东南亚菜，就在两百米远的K11购物艺术中心里, 哈哈，赶紧滴。
 去餐馆路上经过广州图书馆，大门口的三角形像圣诞树的造型，打个卡。
@@ -98,6 +98,8 @@ tags:
  
 博物馆里穿插有书店，有些讲广州历史的书，插图也是比较丰富，随手拍了张照片，里面有张照片就是《国家宝藏》里提到的赤脚踩茶的风俗：
  ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gz-museum-tour/guangzhou-history.jpg)
+ 
+博物馆，再会!
  ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gz-museum-tour/museum-ticket.jpg)
 
 >**广东博物馆的开放时间及停车场收费情况**
