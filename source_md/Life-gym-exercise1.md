@@ -1,5 +1,5 @@
 ---
-title: '健身记录-健身自练习-第一次'
+title: '健身记录-健身自练习-第一记'
 date: 2019-04-04 23:38:27
 categories:
 - 生活道可道
@@ -14,23 +14,21 @@ tags:
 
 健身贵在坚持，今天教练忙，没约到，那就自己去健身房出出汗，也是极好的.
 
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class3-front-muscle.jpg)
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/exercise1-home.jpg)
 <!-- more -->
 >个人声明：本健身记录纯是为了给自己留下锻炼的轨迹，查看身体的变化，每个人的体质和起点不一样，课程可以参考，完全照搬也是有风险的。
 
 #  个人体测情况记录
-##  身体状况
+##  今日身体状况
 身高：182cm
 体重：75kg
 体脂：腹部脂肪含量偏高
 含水量：含水量接近正常值下限
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class3-back-muscle.jpg)
 #  今日锻炼内容
-##  1.快步走   5Min
+##  1.快步走      5Min
 9点到健身房，刚吃完饭不久，第一项运动便是快步走5分钟左右热身
-##  2.慢速（7.5km/h）跑   8Min
-以
-##  3.开合跳跃   3组
+##  2.慢速（7.5km/h）跑      8Min 
+##  3.开合跳跃     3组
 动作要点：
 ①脚自然并拢站立，双手垂在大腿两侧，准备
 ②跳起的时候同时打开双手双脚，双脚宽距着地的同时双手拍掌；跳下一次的时候恢复起始动作
@@ -47,9 +45,9 @@ tags:
 ##  6.快速（8.1km/h）跑  10分钟
 
 
-<br/>
+
 <font color=#c3c3c3>补充说明：运动时长50min，个人经过上面6组练习，感觉体力消耗在75%左右</font>
-    
+<br/>
 作者 [@碧海饮冰人]    
 2019 年 4月 4日    
 
