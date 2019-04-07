@@ -27,7 +27,7 @@ tags:
 含水量：含水量接近正常值下限
 身体体重略升0.5kg，属正常偏动范围内.
 #  今日锻炼内容
-练习时间段：晚9:00-10:10
+练习时间段：下午2:00-3:10
 ##  1.跳绳   3组
 跳100个为一组
 ##  2.TRX高位划船   3组
@@ -35,7 +35,7 @@ tags:
 ②伸直双手，接着双脚向前小步移动，直到感觉TRX带子出现张力，躯干处于大约45度倾斜的角度呈直线，保持稳定
 ③肩膀下沉，肩胛骨往内收，感受背部肌群紧缩，慢慢将身躯往把手的方向拉起，手肘靠近身躯，利用背部力量慢慢下放身躯，至双手伸直，还原动作
 这个动作要收放15个算一组
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class3-trx.jpg)
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class3-trx.gif)
 ##  3. 砸Slam Ball药球（重力球）  3组
 ①开始动作呈站姿，双脚站开与肩同宽，药球放在双脚之间。
 ②一样向下深蹲后捡起球，之后站直，双手持球向上举高，让球保持在头上方偏后的位置，接着将臀部用力往后顶，用核心肌群的力量用力将球往地板丢
@@ -53,13 +53,13 @@ tags:
 ②脊柱保持在中立位，从而保证躯干可以自然正直,挺胸不含胸，肩胛注意下沉
 ③向后拉到手肘贴紧身体,手肘最好是拉到身体的后方去，让你的背阔肌收到最紧之后，再慢慢的还原
 收放15个算一组
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class2-vipr.png)
-##  7.直立杠铃弯举  3组
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class3-seat-boat.gif)
+##  7.弹力带肩胛后收  3组
 用于强化你中背部肌肉，动作要领：
 ①自然站立，然后双手去抓住弹力带，手臂贴住身体肘关节成90度
 ②手臂屈膝90度，上手臂贴住身体，肩膀进行外旋的方式来进行。
 ③利用肩膀往后夹方式将弹力带往外拉紧（肩胛骨后收）。切记，不是用手掌、手腕或手臂出力，而是肩膀往后夹（收），理想的状态上，你的肩胛骨可以夹住一支笔
-
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class3-tanlidai.gif)
 ##  8.直立杠铃弯举  3组
 练习肱二头肌，动作要点：
 两臂伸直反握杠铃垂于体前，两脚左右开立同肩宽，腿部微弯曲，上体伸直。肘关节固定，肱二头肌和肱肌等主动收缩，前臂缓缓上举逐渐向上臂靠拢，至上述肌肉不能收缩为止
@@ -69,7 +69,7 @@ tags:
 9点到健身房，刚吃完饭不久，第一项运动便是快步走5分钟左右热身
 ##  10.快速（8km/h）跑      8Min 
 
-<font color=#c3c3c3>补充说明：个人经过上面8组练习，感觉体力消耗在75%左右.教练跟我再次交代了注意事项，稍后放出来和大伙共勉励看看</font>
+<font color=#c3c3c3>补充说明：个人经过上面多组练习，感觉体力消耗在75%左右.教练跟我再次交代了注意事项，稍后放出来和大伙共勉励看看</font>
 </br>
 作者 [@碧海饮冰人]    
 2019 年 4月 6日    
