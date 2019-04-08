@@ -12,7 +12,7 @@ tags:
 
 
 
-第四节教练课到，前一次主要练胸部及臂部肌肉群的练习，本次将练习胸部肌肉
+第四节教练课到，前一次主要练胸部及臂部肌肉群的练习，本次将练习胸部肌肉.
 
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class4-home.jpg)
 <!-- more -->
@@ -42,23 +42,27 @@ tags:
 腹部肌肉核心力量练习，动作要领：
 ①双脚屈膝成90度，脚掌平贴于地，双手环抱于胸或轻贴耳侧，利用腹部的利用微微卷起上身(不超过45度)
 ①稍停约2秒后慢慢下躺(不要完全躺平，约下躺至肩部)，并配合“起身时吐气，下躺时吸气”的呼吸节奏进行
-整个过程，脖子放松，卷起时腹部收缩发力，上腹部更加明显
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class4-juanfu.jpg)
-##  6.直立杠铃弯举  3组
-练习肱二头肌，动作要点：
-两臂伸直反握杠铃垂于体前，两脚左右开立同肩宽，腿部微弯曲，上体伸直。肘关节固定，肱二头肌和肱肌等主动收缩，前臂缓缓上举逐渐向上臂靠拢，至上述肌肉不能收缩为止
+注意：整个过程，脖子放松，卷起时腹部收缩发力，上腹部更加明显.
+每完成12个为一组
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class4-juanfu.gif)
+##  6.跳箱训练  3组
+练习下肢力量，动作要点：
+①双脚约与肩同宽站立，离箱子在你可跳跃上去的距离前
+②快速弯曲下肢到深蹲动作，然后快速释放下肢力量，并搭配上肢摆动力量，跳上箱子，以蹲的姿势落地
+③下箱脚步要轻柔，回原位重复动作
+注意：落地时脚步轻柔，膝盖保持弹性，勿让腿部承受过大冲击力
 每20个为一组
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class3-gangling.jpg)
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class4-jump-box.gif)
 ##  7. 坐姿推胸  3组
 练习胸部肌肉，动作要点：
 ①坐在机器上，背部靠着垫板,握住把手,适当的调整机器,上臂应当与地面平行
 ②将两个把手缓慢的靠拢，挤压胸部,感觉到肩胛肌肉间仅能容下一根手指头.做这个动作的时候同时呼气，在感觉到紧缩感的时候暂停一下
 ③缓慢的回到起始位置，同时吸气，直到你感觉到胸部肌肉充分伸展开
-整个过程保持肩部下沉，推起重量的时候肘关节不要伸直
+注意：整个过程保持肩部下沉，推起重量的时候肘关节不要伸直
 收放12个为一组
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class4-seat-chest.jpg)
 ##  8.撑体横向行走  3组
-用于强腹部肌肉肌肉，动作要领：
+用于强腹部肌肉，动作要领：
 双脚伸直、两手撑于肩膀下方，收紧腹肌、臀部夹紧下沉贴向底面，左右手配合脚部向左方横爬大约5-6下，然后再向右慢慢爬回到原来位置。
 一个横爬来回算一组
 
