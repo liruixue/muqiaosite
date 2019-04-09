@@ -66,7 +66,6 @@ tags:
 每20个为一组
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class3-gangling.jpg)
 ##  9.快步(5km/h)走      5Min
-9点到健身房，刚吃完饭不久，第一项运动便是快步走5分钟左右热身
 ##  10.快速（8km/h）跑      8Min 
 
 <font color=#c3c3c3>补充说明：个人经过上面多组练习，感觉体力消耗在75%左右.教练跟我再次交代了饮食注意事项，稍后放出来和大伙共勉励看看</font>

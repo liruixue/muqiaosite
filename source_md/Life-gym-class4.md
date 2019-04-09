@@ -16,7 +16,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class4-home.jpg)
 <!-- more -->
->个人声明：本健身记录纯是为了给自己留下锻炼的轨迹，查看身体的变化，每个人的体质和起点不一样，课程可以参考，但完全照搬也是有风险的。
+>个人声明：本健身记录纯是为了给自己留下锻炼的轨迹，查看身体的变化，每个人的体质和起点不一样，课程可以参考，但若完全照搬请注意评估自己的身体状况。
 
 
 #  个人体测情况记录
