@@ -50,10 +50,16 @@ tags:
 注意：保持膝关节与脚尖方向一致，不要内扣和外分，要有意识让大腿和臀部发力
 没蹲起12个为一组
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class6-yaling-shendun.gif)
-##  6. 坐姿压腿器械  3组
+##  6. 坐式蹬腿器械训练  4组
+此动作主要锻练股四头肌、臀大肌处肌肉，动作要点：
+①坐到器械上，双脚放到踏板上，保持比髋关节稍宽一点的距离，身体保持正直，收紧腰腹，挺胸，手握到握把上，保持身体的稳定性，但不要用力，上背部贴紧靠背，颈部放松，头部也同样贴紧靠背，眼睛平视前方
+②大腿用力，大腿前侧、后侧和臀部要同时用力，同时呼气，将重量蹬起，到顶点时膝盖稍弯不要完全伸直，停顿一秒钟
+③弯曲膝盖，还原到开始时的姿势，同时深吸气
+每13-15次算一组，前几组最后一个动作达到85%左右的强度就可以.最后一组时，最好是练到力竭.
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class6-press-leg.jpg)
 
 ##  7.蛙跳  2组
-
+每组跳35个
 ##  8.快步(5.1km/h)走      5Min
 ##  9.快速（8.1km/h）跑      10Min 
 
