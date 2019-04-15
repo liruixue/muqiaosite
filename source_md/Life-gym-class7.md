@@ -10,7 +10,7 @@ tags:
 ---
 
 
-4月13日第七节教练课到，昨天太忙没记录，今天补上。前一次主要练习练习大腿及小腿部的肌肉，本次将切换练习肩部、背部及臂部肌肉耐力.
+4月13日第七节教练课到，前一次主要练习练习大腿及小腿部的肌肉，本次将切换练习肩部、背部及臂部肌肉耐力.
 
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class7-home.jpg)
 <!-- more -->
@@ -63,7 +63,7 @@ tags:
 ②肩胛骨收紧，将拉杆拉到接近上胸的位置然后停顿一秒钟，使背阔肌完全收紧，然后再吸气还原动作，到顶点的时候，不要将手臂完全伸直
 注意：与大部分器械训练换气方式一致：上举时呼气，返回时吸气
 每15个为一组
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class7-arm-curl.jpg)
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class7-seat-gonger.jpg)
 
 
 ##  8.快步(5.1km/h)走      5Min
