@@ -10,7 +10,7 @@ tags:
 ---
 
 
-4月13日第七节教练课到，前一次主要练习练习大腿及小腿部的肌肉，本次将切换练习肩部、背部及臂部肌肉耐力.
+4月13日第七节教练课到，前一次主要练习大腿及小腿部的肌肉，本次将切换练习肩部、背部及臂部肌肉耐力.
 
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class7-home.jpg)
 <!-- more -->
