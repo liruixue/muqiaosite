@@ -12,7 +12,7 @@ tags:
 
 本人换手机频率不算高，从第一部智能手机魅族开始，一直使用国产手机，2016年买的华为P9是华为与徕卡合作的第一款手机，从此也将华为的P系列手机带向中高端的定位，蛮喜欢P系列的手感，可惜屏幕和电池电量已接近惨不忍睹的极限，看到P30系列的闪亮登场后，DxO的评分纪录也再次被刷新，是时候出手啦！
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-mobile-p30/home-p30.jpg)
-
+<!-- more -->
 自己也于2019-03-28在华为淘宝的旗舰店拍下预定金,4-11付了尾款，12号就到货，看下面这个付款记录：
 
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-mobile-p30/taobao-dingjin.jpg)
