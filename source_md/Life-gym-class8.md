@@ -42,7 +42,7 @@ tags:
 注意：整个过程保持肩部下沉，推起重量的时候肘关节不要伸直
 收放14个为一组
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class4-seat-chest.jpg)
-##  5. 练习肩部、背部及臂部肌肉耐力  4组
+##  5. 双手反撑曲臂练习  4组
 锻炼肱三头肌，动作要点：
 ①双手反撑于凳子或床上，要求与肩同宽或者略宽于肩，将肘关节屈至90度
 ②开始时，慢慢伸直肘部。直至肘部伸直。肱三头肌紧张为止停顿2秒。之后慢慢还原至起始位置
