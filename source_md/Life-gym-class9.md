@@ -1,6 +1,6 @@
 ---
-title: '健身记录-健身第八课'
-date: 2019-04-15 23:51:27
+title: '健身记录-健身第九课'
+date: 2019-04-17 23:45:27
 categories:
 - 生活道可道
 - 生当寻趣
@@ -73,7 +73,7 @@ tags:
 ③弯曲膝盖，还原到开始时的姿势，同时深吸气。蹬起时可以快一点，但是还原的过程要放慢速度，让大腿感觉到累.
 每15次算一组，前几组最后一个动作达到85%左右的强度就可以，最后一组时，最好是练到力竭.
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class6-press-leg.jpg)
--------------此处要对腿部做一下拉伸运动，不要让腿部肌肉打成结，第二天会太酸痛--------
+------经过一系列腿部练习，为防止腿部肌肉打结第二天太酸爽，此处要有拉伸动作救场--------
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class9-lashen1.gif)
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class9-lashen2.gif)
 ##  9.快步(5.1km/h)走      5Min
@@ -83,7 +83,7 @@ tags:
 <font color=#c3c3c3>补充说明：昨晚有点熬夜，今儿中午又没有机会午休，训练时稍有头晕，所以力度没搞很大，经过上面多组练习，觉得当次的体力消耗在80%上下，另，每次运动过后，水分流失，教练建议可以吃水果补充下营养，同时决定对自己饮食的热量进行控制，因为要减肚肚呀</font>
 </br>
 作者 [@碧海饮冰人]    
-2019 年 4月 13日    
+2019 年 4月 17日    
 
 
 
