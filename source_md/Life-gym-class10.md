@@ -12,7 +12,7 @@ tags:
 
 4月20日第十节教练课到，前一次主要练习腿部、及腹部肌肉，本次将切换到练习背部、及肩部肌肉.
 
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class9-home.jpg)
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class10-home.jpg)
 <!-- more -->
 >个人声明：本健身记录纯是为了给自己留下锻炼的轨迹，查看身体的变化，每个人的体质和起点不一样，课程可以参考，但若完全照搬请注意评估自己的身体状况。
 
@@ -51,14 +51,21 @@ tags:
 动作要领：
 手臂向前伸直，在保持上身挺直的情况下，两腿交替抬至水平位置
 做35个高抬腿算一组
-##  坐姿哑铃推举（6kg）  3组
+##  7.坐姿哑铃推举（6kg）  3组
 该动作对三角肌尤其三角肌中部的锻炼最明显，同时对斜方肌上部、前锯肌和肱三头肌有很好的锻炼效果，动作要点:
 ①背部挺直，坐于长凳上，正手抓握哑铃举至双肩连侧，掌心向前
 ②吸气，垂直向上推举哑铃，缓慢下落动作完成时呼气
 注意：动作过程保持对哑铃的控制，切忌身体摇晃；推举动作中，注意力集中在三角肌，使三角肌发力。
 每13个为一组
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class10-seat-yaling.jpg)
-##  7. 坐姿推肩  2组
+##  8.卷腹动作  3组
+腹部肌肉核心力量练习，动作要领：
+①双脚屈膝成90度，脚掌平贴于地，双手环抱于胸或轻贴耳侧，利用腹部的利用微微卷起上身(不超过45度)
+①稍停约2秒后慢慢下躺(不要完全躺平，约下躺至肩部)，并配合“起身时吐气，下躺时吸气”的呼吸节奏进行
+注意：整个过程，脖子放松，卷起时腹部收缩发力，上腹部更加明显.
+每完成12个为一组
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class4-juanfu.gif)
+##  9. 坐姿推肩  2组
 练习肩膀的三角肌，斜方肌、上胸、手臂三头肌肉，动作要点：
 ①坐在训练凳上，调整好座椅高度，背部稳稳靠在凳子上。身体保持胸、收腹、沉肩、下颚微微内收的姿态,
 ②选择合适的重量，手握把手，肩部三角肌发力向上推起把手（肘关节微屈，双臂不要完全伸直），充分感觉三角肌的收缩
@@ -66,15 +73,16 @@ tags:
 注意：整个过程保持肩部下沉，上推时呼气，放时吸气，收腹时腰部向前挺起，使得腰窝与座椅的靠背间距离能容得下一个拳头.
 收放12个为一组
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class5-tuijian.jpg)
-##  8. 坐姿推肩(反向)  2组
+##  10. 坐姿推肩(反向)  2组
 和上一个坐姿推肩姿势掉反方向，动作要点与坐姿推肩相似，不过锻炼部位和上一个所锻炼的位置是掉反过来的，
 每13次算一组
-------经过杠铃弯举/坐姿哑铃推举/坐姿推肩及其反向的这几组动作，建议此处要有肩臂拉伸动作救场--------
+
+`经过杠铃弯举/坐姿哑铃推举/坐姿推肩及其反向的这几组动作，建议此处要有肩臂拉伸动作救场`
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class10-lashen1.jpeg)
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class10-lashen2.jpeg)
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class10-lashen3.jpeg)
-##  9.快步(5.1km/h，坡度4.5)走      8Min
-##  10.快速（8.1km/h，坡度4.5）跑      12Min 
+##  11.快步(5.1km/h，坡度4.5)走      8Min
+##  12.快速（8.1km/h，坡度4.5）跑      12Min 
 
 
 <font color=#c3c3c3>补充说明：昨天没敢熬夜，今天训练时的状态要好一些，觉得当次的体力消耗在85%上下，最近开始控制午餐和晚餐的摄入量，主要想把肚子的长势控制住</font>
