@@ -1,5 +1,5 @@
 ---
-title: '健身记录-健身第十课'
+title: '健身记录-健身第十一课'
 date: 2019-04-23 09:45:32
 categories:
 - 生活道可道
@@ -76,8 +76,8 @@ tags:
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class10-lashen1.jpeg)
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class10-lashen2.jpeg)
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class10-lashen3.jpeg)
-##  11.快步(5.1km/h，坡度4.5)走      8Min
-##  12.快速（8.3km/h，坡度4.5）跑      12Min 
+##  9.快步(5.1km/h，坡度4.5)走      8Min
+##  10.快速（8.3km/h，坡度4.5）跑      12Min 
 
 
 <font color=#c3c3c3>补充说明：全部做完后体力消耗在80%上下，继续控制午餐和晚餐的摄入量，要把肚子的长势控制住</font>
