@@ -12,7 +12,7 @@ tags:
 
 4月27日第十二节教练课到，前一次主要练习背部肌肉，本次切换到腿部肌肉练习.
 
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class11-home.jpg)
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class12-home.jpg)
 <!-- more -->
 >个人声明：本健身记录纯是为了给自己留下锻炼的轨迹，查看身体的变化，每个人的体质和起点不一样，课程可以参考，但若完全照搬请注意评估自己的身体状况。
 
