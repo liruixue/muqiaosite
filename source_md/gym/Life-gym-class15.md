@@ -75,8 +75,16 @@ tags:
 手臂向前伸直，在保持上身挺直的情况下，两腿交替抬至水平位置
 做35个高抬腿算一组
 ##  8.负重弓步走
-
+动作要领：
+①保持躯干正直，向前迈出一步，脚后跟先着地
+②然后，身体下蹲，直到膝关节呈90度夹角。膝关节不要前移（不超过脚尖），另一只腿在身体后方伸展，膝关节弯曲，但膝盖不要触及地面
+③然后有节奏的蹲起来（就像往前迈了一步），然后双腿交替向前蹲走
+注意：不要往前俯身，你应该全程保持躯干与地面垂直
 每30步算一组，2组负重，最后一组未负重行走
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class15-gongbu-walk.gif)
+
+
+
 `经过一系列腿部练习，为防止腿部肌肉打结第二天太酸爽，此处要有拉伸动作救场`
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class9-lashen1.gif)
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class9-lashen2.gif)

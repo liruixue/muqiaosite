@@ -10,7 +10,7 @@ tags:
 ---
 
 
-5月3日第十四节教练课到，五一节日穿越山和大海，越过人山人海，再回到家里继续肩部肌肉练习.
+5月3日第十四节教练课到，五一节日穿越山和大海，越过人从众，再回到家里继续肩部肌肉练习.
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class14-home.jpg)
 <!-- more -->
 >个人声明：本健身记录纯是为了给自己留下锻炼的轨迹，查看身体的变化，每个人的体质和起点不一样，课程可以参考，但若完全照搬请注意评估自己的身体状况。
@@ -43,7 +43,7 @@ tags:
 注意，单只手做满15个算一组，一组结束立即切换至另一只手进行划船动作，直到完成4组动作
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class14-hand-boat.gif)
 ##  5.弹力带引体向上   3组
-动作要领：
+核心力量不够强大，从小就害怕引体向上，所以借助弹力带搞起来，动作要领：
 ①双脚踩住弹力带的一端，双手抓握横杆进行引体向上的动作
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class14-tanlidai)
 ##  6.高抬腿   3组
