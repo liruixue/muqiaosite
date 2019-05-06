@@ -45,7 +45,7 @@ tags:
 ##  5.弹力带引体向上   3组
 核心力量不够强大，从小就害怕引体向上，所以借助弹力带搞起来，动作要领：
 ①双脚踩住弹力带的一端，双手抓握横杆进行引体向上的动作
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class14-tanlidai)
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class14-tanlidai.jpg)
 ##  6.高抬腿   3组
 动作要领：
 手臂向前伸直，在保持上身挺直的情况下，两腿交替抬至水平位置
@@ -56,7 +56,7 @@ tags:
 坡度调高后，跑步过程仍然吃力，将跑步时间时间缩短到10分钟
 
 
-<font color=#c3c3c3>补充说明：全部做完后体力消耗在80%上下，本节课应该是落了部分动作，因为是和后面练习练习的，写的晚了，部分动作记不清了，以后写日记应该再积极些</font>
+<font color=#c3c3c3>补充说明：全部做完后体力消耗在80%上下，本节课应该是少写部分动作，因为是和后面练习补写的，晚了点靠回忆就有部分动作记不清了，后面一定要坚持当天或第二天完成日记，加油，一定要做到</font>
 </br>
 作者 [@碧海饮冰人]    
 2019 年 5月 03日    
