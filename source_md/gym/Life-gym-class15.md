@@ -89,7 +89,7 @@ tags:
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class9-lashen1.gif)
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class9-lashen2.gif)
 ##  9.快步(5.1km/h，坡度15)走      10Min
-##  11.快速（8.3km/h，坡度7.5）跑      5Min
+##  10.快速（8.3km/h，坡度7.5）跑      5Min
 步行的坡度再调高后，行路过程吃力，因连续两日锻炼，上午时间有限跑步时间缩到5分钟
 
 
