@@ -14,15 +14,15 @@ tags:
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;五一来之前，原计划去趟北京，看看故宫，后来一家人意见不很一致想改杭州，还是没达成统一，眼瞅着五一假期就在眼前，史无前例的4天小长假啊，好吧，开启深圳周边自驾游模式--
-
-我们是4月30日出发的，穿越7级大风和东莞大暴雨，从沿江高速而上，接近3小时车程，第一站来到了从化的石门森林公园。
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/00-shimen-all-map.jpg) 
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/03-bjg-bao1.jpg) 
 <!-- more -->  
+我们是4月30日出发的，穿越7级大风和东莞大暴雨，从沿江高速而上，接近3小时车程，第一站来到了从化的石门森林公园。
 
 #  石门国家森林公园
 
 门票：40元一位，老人小孩有优惠票
 停车：每次10元一辆 石门森林公园位于广州从化区，这里是个完全适合自驾的地方，从山脚往上可以一路开往山顶，中间有售票处。未到售票处前，沿途有农庄，进入公园之内没有餐饮，可以提前备足干粮。
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/00-shimen-all-map.jpg) 
 
 因为是五一前夕，道上很少车，沿着盘山公路一直往前开。森林公园共有田园风光区，石门风景区，石灶风景区，天堂顶风景区四处，自己主要去了石灶石门两处风景区，经过的景点依此是：红叶路，剁地响，下天池，石门竹海，上天池，天池花海，红枫湖，桃花源，石门浣纱。
 
@@ -44,7 +44,7 @@ tags:
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/00-shimen-tianchihuahai.jpg) 
 ##  红枫湖&桃花源&石门浣纱
 这三个景点在石门风景区，不过就是在下山路上进到另一个支路。
-先到的是红枫湖,刚下过雨，湖面异常平静，可以将青山清晰地倒映在湖中，妈妈说这里风景和九寨沟好像，自己没去过九寨沟，不过我想水面之平大抵是相似的吧
+先到的是红枫湖,刚下过雨，湖面异常平静，可以将青山清晰地倒映在湖中，老妈说这里风景和九寨沟好像，自己没去过九寨沟，不过我想水面之平大抵是相似的吧
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/00-shimen-hongfenghu.jpg)
 
 下面这张貌似怪异的图，能看得清这山是个什么样的存在吗
@@ -78,12 +78,17 @@ tags:
 远古四氏的房间则更有特色了，因为是这个酒店的VIP亲子大房间，价格比较贵，位置也比较私密，看下面这个外立面图，看起来就像个大虫洞，呵呵.
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/01-tmg-hotel-vip-house.jpg)
 在逛百姓庄园的时候，发现当中还有个叫弥宫的房间，那是多个房间组合而成，弥宫的上方形成了一块大平地，于是旅馆想到个新奇的点子，大平地上面出租帐篷，每个帐篷可以住两人，天气好的时候应该还是不错的，晚上可以打开帐篷看星星，数月亮，哈哈.
-因为是所有的房间依山而建，而且又都是树屋，基本上保留了大山的原生态，连用水都是直接接了水管到溪流里然后引往客房，这才是大自然的搬运工，人家的用水是免费的，而且都是山泉水，泉水还是有名字的，叫‘不老泉’，据说每年七月初七，方圆三十里的村民都赶来打水储存，水质百年不变，常饮可保健康，解疑难杂症，可惜手边没茶，要不然一定煮一壶山泉水泡上英德的红茶味道肯定不一般。不过直饮生水就不推荐了，自己在不老泉边尝了几口一小时过后就觉得肚子有点咕咕的，然后一万只草泥马在奔腾，赶紧找洗手间溜之大吉.
+
+因为是所有的房间依山而建，而且又都是树屋，基本上保留了大山的原生态，连用水都是直接接了水管到溪流里然后引往客房，这才是大自然的搬运工，人家的用水是免费的，而且都是山泉水，泉水还是有名字的，叫‘不老泉’.
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/01-tmg-bulaoquan.jpg)
+据说每年七月初七，方圆三十里的村民都赶来打水储存，水质百年不变，常饮可保健康，解疑难杂症，可惜手边没茶，要不然一定煮一壶山泉水泡上英德的红茶味道肯定不一般。不过直饮生水就不推荐了，自己在不老泉边尝了几口一小时过后就觉得肚子有点咕咕的，然后一万只草泥马在奔腾，赶紧跑路找洗手间去.
+
 山脚下不时可以看到各种奇特的生物，经过商铺时，看到墙面上爬着一只大翅膀的昆虫
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/01-tmg-animal.jpg)
 
-天门沟景区的入口，就在九州驿站树上温泉站的旁边，天门沟有"九站一廊"的景点，里面由近及远排列有九处景点，老人的话跑到第二处景点就已力竭，自己继续往前走，路上竟看到一些石头上长满了水晶，怪不得说英德是英石之乡，眼见为实呵：
+天门沟景区的入口，就在九州驿站树上温泉站的旁边，天门沟有"九站一廊"的景点，里面由近及远排列有九处景点，老人的话跑到第二处景点就已力竭
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/01-tmg-map.jpg)
+自己继续往前走，路上竟看到一些石头上长满了水晶，怪不得说英德是英石之乡，眼见为实呵：
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/01-tmg-shuijing.jpg)
 
 到达第四处景点“天井”，一缕山泉从石缝悬崖上飞流直下，在空中散落，时而飞雾，时而细流，乱入下方的深潭，真是一妙处所在.
@@ -97,7 +102,8 @@ tags:
 汲取前一天的教训，回英德市区不开夜车，五一当天下午离开天门沟，一路看清昨晚经过的乡村风景，忆起了幼时乡村间夕阳下的奔跑
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/01-tmg-road.jpg)
 
-#  英德宝晶宫
+
+#  英德市区&宝晶宫
 从天门沟回来，当晚到达英德市区，先找了家餐厅填饱肚子。
 ##  椰林6号海鲜码头
 大众点评搜了当地河鲜NO.1的餐厅---椰林6号海鲜码头，直奔而来，海鲜码头生意非常火爆
@@ -118,6 +124,7 @@ tags:
 停车：车停在了靠近景区的一处临时停车场内，一天收费10元。
 园内饮食：园区内有很多小吃，像酸辣汤、凉粉、方便面之类的大众饮食比较齐全，不过口味不要抱太高期望，填饱肚子吧
 门票：宝晶宫溶洞单卖80多一张，老人小孩有半票优惠；狮子山天梯+天宫玻璃桥+宝晶宫溶洞套票，128元一张，老幼无优惠，建议网上购买有优惠
+
 我们买了个套票，先去看宝晶宫溶洞，路过天鹅湖，随手一拍就是一幅天然的水墨画卷啊
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-tour/Life-think-yingde-gd/03-bjg-tianehu.jpg)
 
