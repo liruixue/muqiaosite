@@ -11,8 +11,8 @@ tags:
 
 
 5月8日第十七节教练课到，上次胸部及手臂肌肉练习完现在仍然酸痛，这次换肩部肌肉练习.
-锻炼完回到家，发现儿子按手指印描上几笔成了新造型，挺有意思的：
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class17-home.jpeg)
+前两日和老婆逛诚品，发现一手工组装套件摆放让人眼花缭乱的，酷的感觉有木有：
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class17-home.jpg)
 <!-- more -->
 >个人声明：本健身记录主要是为了给自己留下锻炼的轨迹，查看身体的变化，日志中的动作对应力量强度有时我会备注，若无备注锻炼强度及公斤数的地方可根据自身的耐受力进行调节，因为每个人的体质和起点不一样，课程可以参考，但若完全照搬请注意评估自己的身体状况,。
 
