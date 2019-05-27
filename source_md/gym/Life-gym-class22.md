@@ -12,7 +12,7 @@ tags:
 
 5月24日第二十二节教练课到，上次是腿部肌肉练习，酸痛着，本次来到肩部肌肉练习.
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class22-home-wangjiao.jpg)
-<center><font color=#c3c3c3>香港的LEGO大店里，用乐高积木拼成的旺角朗豪坊街角景致，建筑结构 的细致与相仿程度令人叹为观止</font></center>
+<center><font color=#c3c3c3>香港旺角的LEGO大店里，用乐高积木拼成的旺角朗豪坊微缩街角景致，建筑结构的细腻表现程度，及其路牌道路行人车辆的观感都惟妙惟肖，令人叹为观止</font></center>
 <!-- more -->
 >个人声明：本健身记录主要是为了给自己留下锻炼的轨迹，查看身体的变化，日志中的动作对应力量强度有时我会备注，若无备注锻炼强度及公斤数的地方可根据自身的耐受力进行调节，因为每个人的体质和起点不一样，课程可以参考，但若完全照搬请注意评估自己的身体状况,。
 
