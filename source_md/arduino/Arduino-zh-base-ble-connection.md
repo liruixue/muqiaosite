@@ -17,9 +17,8 @@ tags:
 Arduino的低成本低功率蓝牙通讯方案测试:手机与蓝牙芯片连接，手机发出信息，并能接收到蓝牙模块的返回信息。
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/Arduino/ble-connection/ble-connction-home.jpg)
 <center><font color=#c3c3c3>华侨城创意文化园内的入口处，一辆攀满彩带和led的车，晚间的灯光轮廓会更清晰</font></center>
-
-
 <!-- more --> 
+
 
 # 元件准备
 | 图片参考        | 项目   |  数量  |  购买渠道  |
@@ -44,6 +43,7 @@ Arduino就是控制设备，负责接收蓝牙请求并转给串口，再将串�
 > * Arduino GND → BLE4.0  GND
 > * Arduino TX  → BLE4.0  RXD
 > * Arduino RX  → BLE4.0  TXD
+
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/Arduino/ble-connection/arduino-connection.jpg)
 
 # 代码
@@ -68,7 +68,9 @@ void loop() {
 App Store中安装LightBlue Explorer应用，打开 LightBlue App，打开蓝牙，我们可以看到周围的蓝牙设备，我们这里的 BLE4.0 设备名称是 HC-08
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/Arduino/ble-connection/ble-list.jpg)
 点击 HC-08 ，可以看到左上方显示 Connected 字样，代表连接成功。接下来，我们下拉到最下面，点击 TX&RX 进入 TX&RX 子页。
+
 注意页面的最右上方，这里现在是显示 Hex，我们需要的是使用 UTF-8 编码方式进行通讯，因此，我们点击 Hex，进入设置页面，选择 UTF-8 String 设置编码方式为 UTF-8 编码。
+
 设置完成后，我们就可以通过 WRITTEN VALUES 来输入发送数据，然后可以在手机屏幕的 READ/NOTIFIED VALUES 列表中看到 与BLE板连接的Arduino代码 返回来的数据。
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/Arduino/ble-connection/test-result.jpg)
 
