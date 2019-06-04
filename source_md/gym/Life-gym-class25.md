@@ -11,8 +11,8 @@ tags:
 
 
 6月2日第二十五节教练课到，本次切换到腿部肌肉练习.
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class23-home.jpg)
-<center><font color=#c3c3c3>深圳福永立新湖畔，举行着两岸小朋友才艺表演庆六一活动，可惜等了一会竟然大雨倾盆，活动最终还是中止了</font></center>
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class25-home.jpg)
+<center><font color=#c3c3c3>路过深圳福永立新湖畔，看到一场两岸小朋友才艺表演庆六一活动正在举行</font></center>
 <!-- more -->
 >个人声明：本健身记录主要是为了给自己留下锻炼的轨迹，查看身体的变化，日志中的动作对应力量强度有时我会备注，若无备注锻炼强度及公斤数的地方可根据自身的耐受力进行调节，因为每个人的体质和起点不一样，课程可以参考，但若完全照搬请注意评估自己的身体状况,。
 
@@ -49,7 +49,7 @@ tags:
 ③然后有节奏的蹲起来（就像往前迈了一步），然后双腿交替向前蹲走
 注意：不要往前俯身，你应该全程保持躯干与地面垂直
 每25步算一组，单手负重5KG
-![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class15-gongbu-wal
+![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class15-gongbu-walk.gif)
 ##  5.坐式蹬腿器械训练  4组
 此动作主要锻练股四头肌、臀大肌处肌肉，动作要点：
 ①坐到器械上，双脚放到踏板上，保持比髋关节稍宽一点的距离，身体保持正直，收紧腰腹，挺胸，手握到握把上，保持身体的稳定性，但不要用力，上背部贴紧靠背，保证运动时臀部被卡紧，身体不会上下移动，颈部放松，头部也同样贴紧靠背，眼睛平视前方
