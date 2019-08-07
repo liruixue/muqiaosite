@@ -58,10 +58,10 @@ tags:
 每卧推10个为一组
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class16-gangling-wotui.gif)
 ##  7. 凳上臂屈伸 20个一组，3组
+锻炼肱三头肌的经典动作
 ①身体仰卧，两手背后撑在稍高的凳子上，两脚放在较矮的凳子上，身体其它部分悬空。
 ②呼气，两肩放松，两臂慢慢屈肘，身体尽量下沉（尤其要沉臀），稍停2-3秒。在身体下沉时，动作要平稳，始终控制住肱三头肌慢慢下降，直至感到肱三头肌充分伸展
 ③然后吸气，用力伸两臂撑起身体还原。以肱三头肌收缩力，使手臂伸直和肱三头肌处于“顶峰收缩”位，稍停。重复以上动作过程。
-锻炼肱三头肌的经典动作
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/life-gym/class29-30-31-qubi.jpg)
 ##  8.快步(5.1km/h，坡度15)走          3Min
 ##  9.快速（8.2km/h，坡度7.5）跑          6Min
