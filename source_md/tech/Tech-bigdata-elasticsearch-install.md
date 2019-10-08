@@ -30,7 +30,6 @@ wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.2.4.ta
 tar -zxvf elasticsearch-6.2.4.tar.gz
 ```
 解压完成后，会出现elasticsearch-6.2.4目录.
-```bash
 
 # 启动
 切换进elasticsearch-6.2.4目录，然后执行启动命令：
