@@ -63,6 +63,10 @@ server.host: "0.0.0.0"	//默认是localhost，0.0.0.0是任何ip都可以访问
 elasticsearch.url: "http://127.0.0.1:9200"    //修改成自己集群的端口号
 kibana.index: ".kibana"
 ```
+# Kibana的控制台Sense&Dev Tools
+原先的交互式控制台Sense，使用户方便的通过浏览器直接与Elasticsearch进行交互。从Kibana 5开始改名并直接内建在Kibana，就是Dev Tools选项
+Kibana提供了Console UI来通过REST API与Elasticsearch交互，Console位于Kibana的Dev Tools栏下。Console有两个主要区域，左边是编辑区用来书写REST请求，右边用来显示请求返回结果。
+
 
 </br>
 作者 [@碧海饮冰人]    
