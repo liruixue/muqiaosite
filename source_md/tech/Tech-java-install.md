@@ -13,7 +13,7 @@ tags:
 
 Java(JDK8)环境的安装.
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/tech/Tech-java-install-home.jpg)
-<center><font color=#c3c3c3>深圳市民广场的灯光秀每次十一前后人流众多</font></center>
+<center><font color=#c3c3c3>深圳市民广场的灯光秀十一假日前后人流众多</font></center>
 <!-- more -->
 >本节主要告诉你CentOS 7 下安装 JAVA环境（JDK 1.8）
 
