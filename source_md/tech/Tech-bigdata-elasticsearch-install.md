@@ -14,7 +14,7 @@ tags:
 
 Elasticsearch运行需要 Java 8 环境，在安装Elasticsearch之前先安装好JDK.
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/tech/Tech-bigdata-elasticsearch-install-home.jpg)
-<center><font color=#c3c3c3>故乡城中心公园里的八卦亭</font></center>
+<center><font color=#c3c3c3>故乡城中心公园里的八卦亭，二十年了仍安稳如初</font></center>
 <!-- more -->
 >本节主要引导在centos下如何安装Elasticsearch
 
@@ -77,12 +77,60 @@ curl 'http://localhost:9200/?pretty'
 ```
 
 # 远程访问elasticsearch服务
+## 配置为远程IP访问
 默认情况下，Elasticsearch 只允许本机访问，如果需要远程访问，可以修改 Elasticsearch 安装目录中的config/elasticsearch.yml文件，去掉network.host的注释，将它的值改成0.0.0.0，让任何人都可以访问，然后重新启动 Elasticsearch 
 
 ```bash
 network.host: 0.0.0.0
 ```
 上面代码中，"network.host:"和"0.0.0.0"中间有个空格，不能忽略，不然启动会报错。线上服务不要这样设置，要设成具体的 IP进行限制.
+## 切换为远程访问后的若干问题
+1. max file descriptors [4096] for elasticsearch process is too low, increase to at least [65536]
+每个进程最大同时打开文件数太小，可通过下面2个命令查看当前数量
+```bash
+ulimit -Hn
+ulimit -Sn
+```
+修改/etc/security/limits.conf文件，增加配置，用户退出后重新登录生效
+```bash
+* soft nofile 65536
+* hard nofile 65536
+```
+2. max number of threads [1024] for user [esuser] is too low, increase to at least [4096]
+问题同上，最大线程个数太低。修改配置文件/etc/security/limits.conf，继续增加nproc那几行：
+```bash
+* soft nofile 65536
+* hard nofile 65536
+* soft nproc 4096
+* hard nproc 4096
+esuser soft nproc 4096
+```
+注意：正常来说加入nproc带*那两行就足够，但是我使用esuser重新登录后，发现错误一直无法排除掉，所以后面把esuser soft nproc 4096那一行也加入了，才排除掉错误
+是否生效，可以通过以下命令查看：
+```bash
+ulimit -Hu
+ulimit -Su
+```
+3. max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+
+修改/etc/sysctl.conf文件，增加配置项：
+vm.max_map_count=262144
+```bash
+vi /etc/sysctl.conf
+sysctl -p
+```
+执行命令sysctl -p生效
+4. system call filters failed to install; check the logs and fix your configuration or disable system call filters at your own risk
+因为Centos6不支持SecComp，而ES5.4.0默认bootstrap.system_call_filter为true进行检测，所以导致检测失败，失败后直接导致ES不能启动
+先将elasticsearch.yml中bootstrap.memory_lock配置项改为false，并在memory_lock配置项下面添加下面一行bootstrap.system_call_filter: false， 也即：
+```bash
+# ---------------- Memory ---------------
+#
+# Lock the memory on startup:
+#
+bootstrap.memory_lock: false
+bootstrap.system_call_filter: false
+```
 
 
 </br>
