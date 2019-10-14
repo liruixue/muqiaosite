@@ -6,7 +6,7 @@ categories:
 - 大数据
 tags:
 - 大数据
-- elasticsearch集群
+- elasticsearch
 ---
 
 
@@ -14,7 +14,7 @@ tags:
 
 Elasticsearch运行需要高可用性，想要高可用性就要搭建集群
 ![](https://raw.githubusercontent.com/liruixue/muqiaosite/master/images/tech/Tech-bigdata-elasticsearch-cluster-home.jpg)
-<center><font color=#c3c3c3>故乡城中心公园里的八卦亭，二十年了仍安稳如初</font></center>
+<center><font color=#c3c3c3>印度史诗《罗摩衍那》神猴哈奴曼的皮影形象</font></center>
 <!-- more -->
 >本节主要讲述如何搭建Elasticsearch的集群
 
@@ -61,11 +61,11 @@ Elasticsearch 的配置文件是 /etc/elasticsearch/elasticsearch.yml，接下�
 cluster.name: germey-es-clusters
 ```
 * 节点的名称
-通过 node.name 可以配置每个节点的名称，每个节点都是集群的一部分，每个节点名称都不要相同，可以按照顺序编号，配置示例：
+通过 node.name 可以配置每个节点的名称，每个节点都是集群的一部分，每个节点名称都不要相同，可以按照顺序编号（本机为es-node-1，则另外一台为es-node-2），配置示例：
 ```bash
 node.name: es-node-1
 ```
-另一台的主机可以配置为 es-node-2.
+
 * 是否有资格成为主节点
 通过 node.master 可以配置该节点是否有资格成为主节点，如果配置为 true，则主机有资格成为主节点，配置为 false 则主机就不会成为主节点，可以去当数据节点或负载均衡节点。注意这里是有资格成为主节点，不是一定会成为主节点，主节点需要集群经过选举产生。这里我配置所有主机都可以成为主节点，因此都配置为 true，配置示例：
 ```bash
@@ -85,14 +85,10 @@ path.data: /A_Install/es/elasticsearch-6.2.4/data
 path.logs: /A_Install/es/elasticsearch-6.2.4/log
 ```
 * 设置访问的地址和端口
-我们需要设定 Elasticsearch 运行绑定的 Host，默认是无法公开访问的，如果设置为主机的公网 IP 或 0.0.0.0 就是可以公开访问的，这里我们可以都设置为公开访问或者部分主机公开访问，如果是公开访问就配置为：
+我们需要设定 Elasticsearch 运行绑定的 Host，默认是无法公开访问的，如果设置为主机的公网 IP 或 0.0.0.0 就是可以公开访问的，这里我们可以都设置为公开访问或者部分主机公开访问，如果不想被公开访问就不用配置, 如若要公开则访问配置为：
 ```bash
-network.host: 0.0.0.0
-```
-如果不想被公开访问就不用配置。
-另外还可以配置访问的端口，默认是 9200：
-```bash
-http.port: 9200
+network.host: 0.0.0.0   //0.0.0.0 表示公开访问
+http.port: 9200    //访问的端口，默认是 9200
 ```
 * 集群地址设置
 通过 discovery.zen.ping.unicast.hosts 可以配置集群的主机地址，配置之后集群的主机之间可以自动发现，这里我配置的是内网地址，配置示例：
@@ -100,17 +96,18 @@ http.port: 9200
 discovery.zen.ping.unicast.hosts: ["192.168.0.51", "192.168.0.52"]
 ```
 * 节点数目相关配置
-为了防止集群发生“脑裂”，即一个集群分裂成多个，通常需要配置集群最少主节点数目，通常为 (可成为主节点的主机数目 / 2) + 1，例如我这边可以成为主节点的主机数目为 7，那么结果就是 4，配置示例：
+为了防止集群发生“脑裂”，即一个集群分裂成多个，通常需要配置集群最少主节点数目，通常为 (可成为主节点的主机数目 / 2) + 1，注意每台主机都要如此配置，例如我这边可以成为主节点的主机数目为 7，那么结果就是 4，配置示例：
 ```bash
 discovery.zen.minimum_master_nodes: 4
 ```
-其他的暂时先不需要配置，注意每台主机都要如此配置，然后保存即可.
+
 ## 启动所有Elasticsearch
 所有主机都启动之后，我们在任意主机上就可以查看到集群状态了，命令行运行以下命令即可：
 ```bash
 curl -XGET 'http://localhost:9200/_cluster/state?pretty'
 ```
 类似的输出如下：
+```bash
 {
 "cluster_name": "tm-es-clusters",
 "compressed_size_in_bytes": 294,
@@ -134,6 +131,7 @@ curl -XGET 'http://localhost:9200/_cluster/state?pretty'
 },
 ...
 }
+```
 可以看到这里输出了集群的相关信息，同时 nodes 字段里面包含了每个节点的详细信息，这样一个基本的集群就构建完成了.
 
 ## 配置Kibana
@@ -142,7 +140,60 @@ Kibana的默认配置文件路径位于/etc/kibana/kibana.yml,配置文件里的
 ```bash
 elasticsearch.url: "http://127.0.0.1:9200"    //这里修改成自己集群的端口号
 ```
-ElasticSearch的集群搭建到此已结束。
+### 查询集群状态
+Dev Tools的控制台里可以直接输入下列指令来查询状态：
+```bash
+GET /_cluster/health
+```
+节点返回的结果如下图示：
+```bash
+{
+  "cluster_name": "tm-es-clusters",
+  "status": "green",
+  "timed_out": false,
+  "number_of_nodes": 2,
+  "number_of_data_nodes": 2,
+  "active_primary_shards": 0,
+  "active_shards": 0,
+  "relocating_shards": 0,
+  "initializing_shards": 0,
+  "unassigned_shards": 0,
+  "delayed_unassigned_shards": 0,
+  "number_of_pending_tasks": 0,
+  "number_of_in_flight_fetch": 0,
+  "task_max_waiting_in_queue_millis": 0,
+  "active_shards_percent_as_number": 100
+}
+```
+status字段，通过green,yellow,red三种指示就可以提供一个综合的指标来表示集群的的服务状况.
+### 添加索引
+为了将数据添加到Elasticsearch，我们需要索引(index)——一个存储关联数据的地方.
+让我们在集群中唯一一个空节点上创建一个叫做tm的索引。默认情况下，一个索引被分配5个主分片，但是为了演示的目的，我们只分配3个主分片和2个复制分片（每个主分片都有一个复制分片）：
+```bash
+PUT /tm
+{
+   "settings" : {
+      "number_of_shards" : 3,
+      "number_of_replicas" : 2
+   }
+}
+```
+返回的结果：
+```bash
+{
+  "acknowledged": true,
+  "shards_acknowledged": true,
+  "index": "tm"
+}
+```
+复制分片的数量number_of_replicas可以在运行中的集群中动态地变更，这允许我们可以根据需求扩大或者缩小规模：
+```bash
+PUT /blogs/_settings
+{
+   "number_of_replicas" : 2
+}
+```
+Ok，ElasticSearch的集群搭建与数据索引添加到此已结束。
 
 还有更多的 Elasticsearch 相关的内容可以参考官方文档：https://www.elastic.co/guide/index.html
 </br>
